@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dfc017e0-0d93-41a2-b7f9-68854d4f7f99" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/text_analyzer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/assignment2-master.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/assignment2-master.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/text_analyzer.py" beforeDir="false" afterPath="$PROJECT_DIR$/text_analyzer.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,18 +30,19 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
-  <component name="RunManager" selected="Python.TextAnalyzer">
+  <component name="RunManager" selected="Python.Calculator">
     <configuration name="Calculator" type="PythonConfigurationType" factoryName="Python">
-      <module name="assignment2-main" />
+      <module name="assignment2-master" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="C:\Users\TyWen\PycharmProjects\pythonProject\venv\Scripts\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -53,13 +57,13 @@
       <method v="2" />
     </configuration>
     <configuration name="TextAnalyzer" type="PythonConfigurationType" factoryName="Python">
-      <module name="assignment2-main" />
+      <module name="assignment2-master" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="C:\Users\TyWen\PycharmProjects\pythonProject\venv\Scripts\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -95,39 +99,9 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.TextAnalyzer" />
       <item itemvalue="Python.Calculator" />
+      <item itemvalue="Python.TextAnalyzer" />
     </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
-  <component name="WindowStateProjectService">
-    <state x="395" y="89" key="#Intentions" timestamp="1600983275049">
-      <screen x="0" y="23" width="1440" height="833" />
-    </state>
-    <state x="395" y="89" key="#Intentions/0.23.1440.833@0.23.1440.833" timestamp="1600983275049" />
-    <state x="165" y="156" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600823332676">
-      <screen x="0" y="23" width="1440" height="833" />
-    </state>
-    <state x="165" y="156" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.833@0.23.1440.833" timestamp="1600823332676" />
-    <state width="1133" height="205" key="GridCell.Tab.0.bottom" timestamp="1600984297918">
-      <screen x="0" y="23" width="1440" height="833" />
-    </state>
-    <state width="1133" height="205" key="GridCell.Tab.0.bottom/0.23.1440.833@0.23.1440.833" timestamp="1600984297918" />
-    <state width="1133" height="205" key="GridCell.Tab.0.center" timestamp="1600984297918">
-      <screen x="0" y="23" width="1440" height="833" />
-    </state>
-    <state width="1133" height="205" key="GridCell.Tab.0.center/0.23.1440.833@0.23.1440.833" timestamp="1600984297918" />
-    <state width="1133" height="205" key="GridCell.Tab.0.left" timestamp="1600984297917">
-      <screen x="0" y="23" width="1440" height="833" />
-    </state>
-    <state width="1133" height="205" key="GridCell.Tab.0.left/0.23.1440.833@0.23.1440.833" timestamp="1600984297917" />
-    <state width="1133" height="205" key="GridCell.Tab.0.right" timestamp="1600984297918">
-      <screen x="0" y="23" width="1440" height="833" />
-    </state>
-    <state width="1133" height="205" key="GridCell.Tab.0.right/0.23.1440.833@0.23.1440.833" timestamp="1600984297918" />
-    <state x="342" y="180" width="670" height="676" key="search.everywhere.popup" timestamp="1600982064720">
-      <screen x="0" y="23" width="1440" height="833" />
-    </state>
-    <state x="342" y="180" width="670" height="676" key="search.everywhere.popup/0.23.1440.833@0.23.1440.833" timestamp="1600982064720" />
-  </component>
 </project>
